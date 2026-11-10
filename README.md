@@ -1,6 +1,7 @@
 # 📄 Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
 PeperBench：[project/paperbench](https://github.com/openai/frontier-evals/tree/main/project/paperbench)
-**Minju Seo, Jinheon Baek†, Seongyun Lee, and Sung Ju Hwang†** († denotes equal advising)  
+
+
 International Conference on Learning Representations (ICLR), 2026  
 📄 [Read the paper](https://arxiv.org/abs/2504.17192)  
 
